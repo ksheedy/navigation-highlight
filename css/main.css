@@ -20,7 +20,7 @@ header {
 }
 
 h1, h2 {
-  font-family: 'Sigmar One', cursive;
+  font-family: "Sigmar One", cursive;
   color: #cc1465;
   margin: 0;
 }
@@ -71,10 +71,12 @@ h2 {
 }
 
 img {
+  display: block;
   width: 100%;
 }
 
 footer {
+  color: #2f2d13
   background-color: #ffe500;
   text-align: center;
   font-size: .75rem;
