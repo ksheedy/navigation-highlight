@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: #ffe500;
+}
+
+h1, h2 {
+  font-family: 'Sigmar One', cursive;
+  color: #cc1465;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  background-color: #ffe500;
+}
